@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec9ce35d-3bf1-4321-9014-29ace58d2983" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/gbnEureka1/target/" />
+    <ignored path="$PROJECT_DIR$/gbnEureka2/target/" />
+    <ignored path="$PROJECT_DIR$/gbnUtils/target/" />
+    <ignored path="$PROJECT_DIR$/gbnAdmin/target/" />
+    <ignored path="$PROJECT_DIR$/transverseNavProvider/target/" />
+    <ignored path="$PROJECT_DIR$/gbnPoJo/target/" />
+    <ignored path="$PROJECT_DIR$/transverseNavConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/gbnZUUL/target/" />
+    <ignored path="$PROJECT_DIR$/discussProvider/target/" />
+    <ignored path="$PROJECT_DIR$/discussConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/fileUpload/target/" />
+    <ignored path="$PROJECT_DIR$/bannerProvider/target/" />
+    <ignored path="$PROJECT_DIR$/bannerConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/hotGoodProvider/target/" />
+    <ignored path="$PROJECT_DIR$/hotGoodConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/productDetail/target/" />
+    <ignored path="$PROJECT_DIR$/seckillProductScan/target/" />
+    <ignored path="$PROJECT_DIR$/seckill/target/" />
+    <ignored path="$PROJECT_DIR$/seckillProvider/target/" />
+    <ignored path="$PROJECT_DIR$/seckillConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/seckillPayment/target/" />
+    <ignored path="$PROJECT_DIR$/seckillPaymentProvider/target/" />
+    <ignored path="$PROJECT_DIR$/seckillPaymentConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/paymentProvider/target/" />
+    <ignored path="$PROJECT_DIR$/paymentConsumer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paymentConsumer/src/main/java/com/java/application/PaymentConsumerStartApplicatioin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileUpload/src/main/java/com/java/application/FileUploadStartApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+      <find>tool</find>
+      <find>boot</find>
+      <find>eureka</find>
+      <find>jdk</find>
+      <find>kuayu</find>
+      <find>insertUser</find>
+      <find>商品评论</find>
+      <find>body</find>
+      <find>comment</find>
+      <find>module</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/gbnAdmin/src/main/java/com/java/service/impl/LoginServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/transverseNavProvider/src/main/java/com/java/service/impl/TransverseNavImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gbnAdmin/src/main/java/com/java/service/impl/NavServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/seckill/src/main/java/com/java/mapper/SeckillMapper.java" />
+        <option value="$PROJECT_DIR$/seckill/src/main/java/com/java/service/SeckillService.java" />
+        <option value="$PROJECT_DIR$/seckill/src/main/java/com/java/controller/SeckillController.java" />
+        <option value="$PROJECT_DIR$/seckillProductScan/src/main/java/com/java/mapper/SeckillMapper.java" />
+        <option value="$PROJECT_DIR$/seckillProductScan/src/main/java/com/java/service/SeckillService.java" />
+        <option value="$PROJECT_DIR$/seckillProductScan/src/main/java/com/java/service/impl/SeckillServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seckill/src/main/java/com/java/service/impl/SeckillServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seckillProductScan/src/main/java/com/java/tasks/SeckillTask.java" />
+        <option value="$PROJECT_DIR$/seckill/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seckill/src/main/java/com/java/application/SeckillStartApplication.java" />
+        <option value="$PROJECT_DIR$/seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillConsumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seckillConsumer/src/main/java/com/java/application/seckillConsumerStartApplicatioin.java" />
+        <option value="$PROJECT_DIR$/transverseNavConsumer/src/main/java/com/java/application/TransverseNavConsumerStartApplication.java" />
+        <option value="$PROJECT_DIR$/seckillProvider/src/main/java/com/java/application/SeckillStartApplication.java" />
+        <option value="$PROJECT_DIR$/seckillConsumer/src/main/java/com/java/controller/SeckillConsumerController.java" />
+        <option value="$PROJECT_DIR$/seckillConsumer/src/main/java/com/java/controller/SeckillController.java" />
+        <option value="$PROJECT_DIR$/seckillProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillProvider/src/main/java/com/java/service/SeckillService.java" />
+        <option value="$PROJECT_DIR$/seckillProvider/src/main/java/com/java/service/impl/SeckillServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seckillProvider/src/main/java/com/java/controller/SeckillController.java" />
+        <option value="$PROJECT_DIR$/gbnUtils/src/main/java/com/java/utils/OrderNumGenerateUtil.java" />
+        <option value="$PROJECT_DIR$/seckillPayment/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillPayment/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/application/SeckillPaymentProviderStartApplication.java" />
+        <option value="$PROJECT_DIR$/seckillPaymentConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillPaymentConsumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seckillProvider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/controller/seckillPaymentController.java" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/mapper/seckillPaymentMapper.java" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/mapper/SeckillPaymentMapper.java" />
+        <option value="$PROJECT_DIR$/paymentProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/paymentProvider/src/main/java/com/java/application/PaymentProviderStartApplication.java" />
+        <option value="$PROJECT_DIR$/paymentProvider/src/main/java/com/java/mapper/PaymentMapper.java" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/service/SeckillPaymentService.java" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/controller/SeckillPaymentController.java" />
+        <option value="$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/service/impl/SeckillPaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/paymentProvider/src/main/java/com/java/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/paymentProvider/src/main/java/com/java/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/paymentProvider/src/main/java/com/java/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/seckillPaymentConsumer/src/main/java/com/java/controller/SeckillPaymentController.java" />
+        <option value="$PROJECT_DIR$/paymentConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/paymentConsumer/src/main/java/com/java/application/PaymentConsumerStartApplicatioin.java" />
+        <option value="$PROJECT_DIR$/paymentConsumer/src/main/java/com/java/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/gbnZUUL/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/paymentProvider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/paymentConsumer/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files (work)\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Program Files (work)\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="274" />
+    <option name="y" value="10" />
+    <option name="width" value="1346" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GoodBuyNet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoodBuyNet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/paymentConsumer/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.java.service" />
+      <recent name="com.java.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.application" />
+      <recent name="com.java.filters" />
+      <recent name="com.java.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files (work)\JetBrains\IDEA2018\programs_code\GoodBuyNet\paymentConsumer\src\main\resources" />
+      <recent name="D:\Program Files (work)\JetBrains\IDEA2018\programs_code\GoodBuyNet\paymentProvider\src\main\resources" />
+      <recent name="D:\Program Files (work)\JetBrains\IDEA2018\programs_code\GoodBuyNet\seckillPaymentConsumer\src\main\resources" />
+      <recent name="D:\Program Files (work)\JetBrains\IDEA2018\programs_code\GoodBuyNet\seckillPayment\src\main\resources" />
+      <recent name="D:\Program Files (work)\JetBrains\IDEA2018\programs_code\GoodBuyNet\seckillConsumer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.28060412" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.PaymentConsumerStartApplicatioin">
+    <configuration name="BannerConsumerStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bannerConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.BannerConsumerStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BannerProviderStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="bannerProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.BannerProviderStartApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscussConsumerStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discussConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.DiscussConsumerStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscussProviderStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discussProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.DiscussProviderStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUploadStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fileUpload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.FileUploadStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GBNAdminStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gbnAdmin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.GBNAdminStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GBNEureka1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gbnEureka1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.GBNEureka1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GBNEureka2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gbnEureka2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.GBNEureka2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotGoodConsumerStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hotGoodConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.HotGoodConsumerStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotGoodProviderStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="hotGoodProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.HotGoodProviderStartApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentConsumerStartApplicatioin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="paymentConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.PaymentConsumerStartApplicatioin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentProviderStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="paymentProvider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.PaymentProviderStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDetailStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="productDetail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.ProductDetailStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillConsumerStartApplicatioin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seckillConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.SeckillConsumerStartApplicatioin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillPaymentProviderStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seckillPaymentProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.SeckillPaymentProviderStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillProductScanStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seckillProductScan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.SeckillProductScanStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillProviderStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="seckillProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.SeckillProviderStartApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransverseNavConsumerStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="transverseNavConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.TransverseNavConsumerStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransverseNavProviderStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="transverseNavProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.TransverseNavProviderStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZUULStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gbnZUUL" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.application.ZUULStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DiscussProviderStartApplication" />
+      <item itemvalue="Spring Boot.TransverseNavConsumerStartApplication" />
+      <item itemvalue="Spring Boot.GBNAdminStartApplication" />
+      <item itemvalue="Spring Boot.FileUploadStartApplication" />
+      <item itemvalue="Spring Boot.BannerProviderStartApplication" />
+      <item itemvalue="Spring Boot.DiscussConsumerStartApplication" />
+      <item itemvalue="Spring Boot.HotGoodProviderStartApplication" />
+      <item itemvalue="Spring Boot.BannerConsumerStartApplication" />
+      <item itemvalue="Spring Boot.ProductDetailStartApplication" />
+      <item itemvalue="Spring Boot.TransverseNavProviderStartApplication" />
+      <item itemvalue="Spring Boot.SeckillProviderStartApplication" />
+      <item itemvalue="Spring Boot.GBNEureka2" />
+      <item itemvalue="Spring Boot.ZUULStartApplication" />
+      <item itemvalue="Spring Boot.SeckillPaymentProviderStartApplication" />
+      <item itemvalue="Spring Boot.HotGoodConsumerStartApplication" />
+      <item itemvalue="Spring Boot.GBNEureka1" />
+      <item itemvalue="Spring Boot.SeckillProductScanStartApplication" />
+      <item itemvalue="Spring Boot.SeckillConsumerStartApplicatioin" />
+      <item itemvalue="Spring Boot.PaymentProviderStartApplication" />
+      <item itemvalue="Spring Boot.PaymentConsumerStartApplicatioin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PaymentConsumerStartApplicatioin" />
+        <item itemvalue="Spring Boot.PaymentProviderStartApplication" />
+        <item itemvalue="Spring Boot.SeckillConsumerStartApplicatioin" />
+        <item itemvalue="Spring Boot.SeckillProductScanStartApplication" />
+        <item itemvalue="Spring Boot.GBNEureka1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec9ce35d-3bf1-4321-9014-29ace58d2983" name="Default Changelist" comment="" />
+      <created>1603792632040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603792632040</updated>
+      <workItem from="1603792634719" duration="2178000" />
+      <workItem from="1603846796432" duration="18716000" />
+      <workItem from="1603939174971" duration="1320000" />
+      <workItem from="1604033958920" duration="599000" />
+      <workItem from="1604390904466" duration="3588000" />
+      <workItem from="1604455430600" duration="3350000" />
+      <workItem from="1604460866309" duration="14687000" />
+      <workItem from="1604495081455" duration="2902000" />
+      <workItem from="1604501175730" duration="8775000" />
+      <workItem from="1604585160295" duration="1750000" />
+      <workItem from="1604631448078" duration="15000" />
+      <workItem from="1604646539384" duration="78000" />
+      <workItem from="1604978448412" duration="12183000" />
+      <workItem from="1605060699440" duration="3318000" />
+      <workItem from="1605086803750" duration="2503000" />
+      <workItem from="1605102435842" duration="1102000" />
+      <workItem from="1605103559784" duration="3192000" />
+      <workItem from="1605106867359" duration="751000" />
+      <workItem from="1605146757814" duration="5304000" />
+      <workItem from="1605496943670" duration="8200000" />
+      <workItem from="1605578324256" duration="8881000" />
+      <workItem from="1605620789929" duration="2873000" />
+      <workItem from="1605682322069" duration="5230000" />
+      <workItem from="1605711138670" duration="3228000" />
+      <workItem from="1605752057932" duration="1827000" />
+      <workItem from="1605839147180" duration="8838000" />
+      <workItem from="1606112425342" duration="599000" />
+      <workItem from="1608001329358" duration="162000" />
+      <workItem from="1608189644231" duration="2632000" />
+      <workItem from="1608269479550" duration="8990000" />
+      <workItem from="1608282834559" duration="466000" />
+      <workItem from="1608283624087" duration="872000" />
+      <workItem from="1608383031655" duration="7971000" />
+      <workItem from="1608463161206" duration="4808000" />
+      <workItem from="1608559481029" duration="417000" />
+      <workItem from="1608559923607" duration="4472000" />
+      <workItem from="1608607201160" duration="10121000" />
+      <workItem from="1608650678071" duration="4561000" />
+      <workItem from="1608690464466" duration="3210000" />
+      <workItem from="1608718906746" duration="7650000" />
+      <workItem from="1608785176503" duration="62287000" />
+      <workItem from="1609214712069" duration="9715000" />
+      <workItem from="1609235797825" duration="722000" />
+      <workItem from="1609941252896" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="255708000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21451788" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4992224" weight="0.32741398" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32852387" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290993" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50373137" side_tool="true" weight="0.26760563" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32852387" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49626866" visible="true" weight="0.28710726" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.28615862" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32970452" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2651633" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42686892" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4992224" weight="0.32794458" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290993" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50373137" side_tool="true" weight="0.26760563" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3290993" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49626866" weight="0.35421413" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.2340591" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32970452" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/discussConsumer/src/main/java/com/java/controller/DiscussController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="34" column="89" lean-forward="true" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProductScan/src/main/java/com/java/tasks/SeckillTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="91" column="61" selection-start-line="91" selection-start-column="61" selection-end-line="91" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gbnUtils/src/main/java/com/java/utils/MongoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProvider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="102" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bannerConsumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillConsumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillConsumer/src/main/java/com/java/filters/CrossDomainFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillConsumer/src/main/java/com/java/application/SeckillConsumerStartApplicatioin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProvider/src/main/java/com/java/service/SeckillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProvider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gbnZUUL/src/main/java/com/java/application/ZUULStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProvider/src/main/java/com/java/service/impl/SeckillServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProvider/src/main/java/com/java/controller/SeckillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gbnUtils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gbnUtils/src/main/java/com/java/utils/OrderNumGenerateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProductScan/src/main/java/com/java/mapper/SeckillMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProvider/src/main/java/com/java/mapper/SeckillMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentProvider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1698">
+          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentProvider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="108" column="12" selection-start-line="16" selection-start-column="4" selection-end-line="108" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/mapper/SeckillPaymentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/service/SeckillPaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/service/impl/SeckillPaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentProvider/src/main/java/com/java/mapper/PaymentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentProvider/src/main/java/com/java/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentProvider/src/main/java/com/java/application/PaymentProviderStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProductScan/src/main/java/com/java/application/SeckillProductScanStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/application/SeckillPaymentProviderStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bannerConsumer/src/main/java/com/java/application/BannerConsumerStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bannerConsumer/src/main/java/com/java/controller/BannerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillConsumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentConsumer/src/main/java/com/java/filters/CrossDomainFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentConsumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillConsumer/src/main/java/com/java/controller/SeckillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentConsumer/src/main/java/com/java/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentProvider/src/main/java/com/java/service/impl/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentProvider/src/main/java/com/java/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentConsumer/src/main/java/com/java/controller/SeckillPaymentController.java" />
+    <entry file="file://$PROJECT_DIR$/seckillPaymentConsumer/src/main/java/com/java/application/SeckillPaymentConsumerStartApplicatioin.java" />
+    <entry file="file://$PROJECT_DIR$/seckillPaymentConsumer/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/seckillPaymentConsumer/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/seckillProductScan/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentProvider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentConsumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentProvider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gbnZUUL/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillPaymentProvider/src/main/java/com/java/controller/SeckillPaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seckillProvider/src/main/java/com/java/application/SeckillProviderStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileUpload/src/main/java/com/java/controller/FileUploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paymentConsumer/src/main/java/com/java/application/PaymentConsumerStartApplicatioin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileUpload/src/main/java/com/java/application/FileUploadStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>seckillPaymentProvider</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

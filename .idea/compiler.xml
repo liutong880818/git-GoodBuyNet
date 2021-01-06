@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="discussProvider" />
+        <module name="fileUpload" />
+        <module name="transverseNavConsumer" />
+        <module name="bannerConsumer" />
+        <module name="gbnEureka2" />
+        <module name="gbnEureka1" />
+        <module name="seckillConsumer" />
+        <module name="seckillProductScan" />
+        <module name="gbnPoJo" />
+        <module name="paymentConsumer" />
+        <module name="discussConsumer" />
+        <module name="paymentProvider" />
+        <module name="productDetail" />
+        <module name="seckillProvider" />
+        <module name="gbnZUUL" />
+        <module name="transverseNavProvider" />
+        <module name="bannerProvider" />
+        <module name="gbnAdmin" />
+        <module name="hotGoodProvider" />
+        <module name="gbnUtils" />
+        <module name="hotGoodConsumer" />
+        <module name="seckillPaymentProvider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="seckillPaymentConsumer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bannerConsumer" options="-parameters" />
+      <module name="bannerProvider" options="-parameters" />
+      <module name="discussConsumer" options="-parameters" />
+      <module name="discussProvider" options="-parameters" />
+      <module name="fileUpload" options="-parameters" />
+      <module name="gbnAdmin" options="-parameters" />
+      <module name="gbnEureka1" options="-parameters" />
+      <module name="gbnEureka2" options="-parameters" />
+      <module name="gbnPoJo" options="-parameters" />
+      <module name="gbnUtils" options="-parameters" />
+      <module name="gbnZUUL" options="-parameters" />
+      <module name="hotGoodConsumer" options="-parameters" />
+      <module name="hotGoodProvider" options="-parameters" />
+      <module name="paymentConsumer" options="-parameters" />
+      <module name="paymentProvider" options="-parameters" />
+      <module name="productDetail" options="-parameters" />
+      <module name="seckillConsumer" options="-parameters" />
+      <module name="seckillPaymentConsumer" options="-parameters" />
+      <module name="seckillPaymentProvider" options="-parameters" />
+      <module name="seckillProductScan" options="-parameters" />
+      <module name="seckillProvider" options="-parameters" />
+      <module name="transverseNavConsumer" options="-parameters" />
+      <module name="transverseNavProvider" options="-parameters" />
+    </option>
+  </component>
+</project>

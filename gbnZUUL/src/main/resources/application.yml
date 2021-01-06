@@ -1,0 +1,26 @@
+server:
+  port: 2020
+spring:
+  application:
+    name: gbnZUUL
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka,http://127.0.0.1:10010/eureka
+#路由表
+zuul:
+  routes:
+    gbnAdmin: /admin/** #配置后台管理平台
+    transverseNavConsumer: /transverseNavConsumer/** #配置前端横向导航栏 消费者模块
+    discussConsumer: /discussConsumer/** #配置评论 消费者模块
+    fileUpload: /fileUpload/** #配置文件上传服务
+    bannerConsumer: /bannerConsumer/** #配置轮播图 消费者模块
+    hotGoodConsumer: /hotGoodConsumer/** #配置热门商品 消费者模块
+    seckillConsumer: /seckillConsumer/** #配置秒杀商品 消费者模块
+    paymentConsumer: /paymentConsumer/** #配置结算支付 消费者模块
+
+  host:
+    socket-timeout-millis: 10000
+    connection-request-timeout-millis: 10000
+    time-to-live: 10000
+    connect-timeout-millis: 10000

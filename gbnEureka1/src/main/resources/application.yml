@@ -1,0 +1,12 @@
+server:
+  port: 10086
+spring:
+  application:
+    name: gbnEureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10010/eureka
+    register-with-eureka: true
+  server:
+    eviction-interval-timer-in-ms: 3000

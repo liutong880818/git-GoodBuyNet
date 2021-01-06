@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/bannerConsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/bannerProvider" />
+    <file type="web" url="file://$PROJECT_DIR$/discussConsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/discussProvider" />
+    <file type="web" url="file://$PROJECT_DIR$/fileUpload" />
+    <file type="web" url="file://$PROJECT_DIR$/gbnAdmin" />
+    <file type="web" url="file://$PROJECT_DIR$/gbnEureka1" />
+    <file type="web" url="file://$PROJECT_DIR$/gbnEureka2" />
+    <file type="web" url="file://$PROJECT_DIR$/gbnZUUL" />
+    <file type="web" url="file://$PROJECT_DIR$/hotGoodConsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/hotGoodProvider" />
+    <file type="web" url="file://$PROJECT_DIR$/paymentConsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/paymentProvider" />
+    <file type="web" url="file://$PROJECT_DIR$/productDetail" />
+    <file type="web" url="file://$PROJECT_DIR$/seckillConsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/seckillPaymentConsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/seckillPaymentProvider" />
+    <file type="web" url="file://$PROJECT_DIR$/seckillProductScan" />
+    <file type="web" url="file://$PROJECT_DIR$/seckillProvider" />
+    <file type="web" url="file://$PROJECT_DIR$/transverseNavConsumer" />
+    <file type="web" url="file://$PROJECT_DIR$/transverseNavProvider" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/seckillProvider/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/seckillPaymentConsumer/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
